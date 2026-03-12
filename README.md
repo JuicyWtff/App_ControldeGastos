@@ -3,9 +3,9 @@
 Aplicacion movil de control de gastos personales desarrollada en Android con Kotlin y XML para la materia de Desarrollo de Aplicaciones Móviles.
 
 ## Integrantes
--Hugo Javier Rodriguez Bravo || 202250480
--Samuel Fernando Tapia Gálvez || 202254635
--David Morales Cortés || 202234188
+-Hugo Javier Rodriguez Bravo || 202250480 <br>
+-Samuel Fernando Tapia Gálvez || 202254635 <br>
+-David Morales Cortés || 202234188 <br>
 
 ## Funcionalidades
 
